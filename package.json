@@ -1,0 +1,23 @@
+{
+  "name": "language-assembler-sjasmplus",
+  "version": "0.0.0",
+  "description": "SJASMPlus Assembler language syntax highlighting for Atom",
+  "homepage": "https://github.com/alexanderk23/language-assembler-sjasmplus",
+  "keywords": [
+    "sjasm",
+    "sjasmplus",
+    "z80",
+    "assembler",
+    "zx"
+  ],
+  "activationCommands": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexanderk23/language-assembler-sjasmplus.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {}
+}
