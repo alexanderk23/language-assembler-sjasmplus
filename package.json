@@ -1,6 +1,6 @@
 {
   "name": "language-assembler-sjasmplus",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "SJASMPlus Assembler language syntax highlighting for Atom",
   "homepage": "https://github.com/alexanderk23/language-assembler-sjasmplus",
   "keywords": [
